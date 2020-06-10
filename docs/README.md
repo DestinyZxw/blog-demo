@@ -2,7 +2,7 @@
 home: true
 heroImage: /assets/img/sun.jpg
 heroText: blog-demo-zxw
-tagline: 博客示例
+tagline: 知行合一
 actionText: 快速上手 →
 actionLink: /
 features:
